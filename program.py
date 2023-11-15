@@ -38,7 +38,7 @@ def main():
             check_replace("X", "Y")
 
 def print_board():
-    os.system("cls")
+    os.system("clear")
     for line in labirent:
         print("".join(line))
 
