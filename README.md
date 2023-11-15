@@ -1,2 +1,2 @@
-# python-maze-solver
-Solves mazes inside text files
+# Python Maze Solver
+Solves mazes inside text files.
